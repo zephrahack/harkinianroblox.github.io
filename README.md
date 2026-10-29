@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
-<!DOCTYPE html>
+title: Harkinian | Roblox Archive
+description: An independent archive of Harkinian and g00byd0lan's Roblox history.
 <html>
 <head>
     <title>Harkinian | Roblox Archive</title>
